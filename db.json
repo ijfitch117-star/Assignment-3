@@ -1,0 +1,45 @@
+
+{
+  "services": [
+    {
+      "name": "Calorie Calculator",
+      "price": "$0",
+      "description": "Calculate your daily calorie needs instantly."
+    },
+    {
+      "name": "Macro Tracker",
+      "price": "$5",
+      "description": "Track protein, carbs, and fats easily."
+    },
+    {
+      "name": "Meal Planner",
+      "price": "$10",
+      "description": "Plan weekly meals for better nutrition."
+    },
+    {
+      "name": "Workout Nutrition Guide",
+      "price": "$7",
+      "description": "Fuel workouts with expert guidance."
+    },
+    {
+      "name": "Weight Loss Program",
+      "price": "$20",
+      "description": "Structured program for sustainable weight loss."
+    },
+    {
+      "name": "Healthy Recipes Pack",
+      "price": "$8",
+      "description": "Collection of balanced meal recipes."
+    },
+    {
+      "name": "Premium Support",
+      "price": "$15",
+      "description": "Priority customer support access."
+    },
+    {
+      "name": "Custom Diet Plan",
+      "price": "$25",
+      "description": "Personalized diet plan based on goals."
+    }
+  ]
+}
